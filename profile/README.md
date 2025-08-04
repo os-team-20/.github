@@ -23,12 +23,12 @@
 
 ## 👥 참여자 소개
 
-| 이름 | 역할 | 비고 |
+| 이름 | 역할 | 프로필 |
 |------|------|------|
-| 혜연 | 발표자 ① |  |
-| 지원 | 발표자 ② | |
-| 세원 | 발표자 ③ | |
-| 가원 | 발표자 ④ | |
+| 혜연 | 발표자 ① | [hyeyeon](https://github.com/Hey0140)  |
+| 지원 | 발표자 ② | [jiwon](https://github.com/Sonji-1) |
+| 세원 | 발표자 ③ | [sewon](https://github.com/DawnteaStudio) |
+| 가원 | 발표자 ④ | [gawon](https://github.com/kgw0124) |
 
 ---
 
