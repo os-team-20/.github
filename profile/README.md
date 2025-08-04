@@ -45,7 +45,7 @@
 
 ## 🗂️ 목차
 
-- [운영체제](../operating-system/README.md)
+- [운영체제](https://github.com/ssafy20-CS-study/Operating-System/tree/main)
 
 ---
 
